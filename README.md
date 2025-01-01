@@ -33,5 +33,5 @@ Este proyecto presenta el diseño y desarrollo de un sistema automatizado de ide
 
 ## Informe Final 
 
-[Informe final del proyecto de graduación](https://github.com/jwlh00/PG-2024-20358/blob/main/Trash%20Classification/docs/informe_final.pdf)
+[Informe final del proyecto de graduación](https://github.com/jwlh00/PG-2024-20358/blob/main/Trash%20Classification/docs/Informe.pdf)
 
