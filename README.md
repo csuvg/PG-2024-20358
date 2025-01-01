@@ -12,7 +12,7 @@ Este proyecto presenta el diseño y desarrollo de un sistema automatizado de ide
 - **Pasos de Instalación:**
   1. Clonar el repositorio y mover al directorio correspondiente:
      ```bash
-     git clone https://github.com/csuvg/PG-2024-20358
+     git clone https://github.com/jwlh00/csuvg/PG-2024-20358
      ```
 
   2. Instalar las dependencias necesarias:
@@ -29,9 +29,9 @@ Este proyecto presenta el diseño y desarrollo de un sistema automatizado de ide
 
 ## Demo
 
-[Demostración visual del proyecto en acción.](https://github.com/PG-2024-20358/blob/main/Trash%20Classification/demo/demo.mp4)
+[Demostración visual del proyecto en acción.](https://github.com/jwlh00/PG-2024-20358/blob/main/Trash%20Classification/demo/demo.mp4)
 
 ## Informe Final 
 
-[Informe final del proyecto de graduación](https://github.com/PG-2024-20358/blob/main/Trash%20Classification/docs/informe_final.pdf)
+[Informe final del proyecto de graduación](https://github.com/jwlh00/PG-2024-20358/blob/main/Trash%20Classification/docs/informe_final.pdf)
 
